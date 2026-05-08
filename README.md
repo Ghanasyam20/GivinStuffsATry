@@ -1,2 +1,2 @@
 # GivinStuffsATry
-Tryin out features in github
+Trying out features in github
